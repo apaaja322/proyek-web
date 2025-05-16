@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #ffe3f3;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #d63384;
+    margin-top: 20px;
+}
+
+canvas {
+    background: #fff;
+    border: 3px solid #d63384;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+#score {
+    font-size: 20px;
+    color: #444;
+    margin-top: 10px;
+}
